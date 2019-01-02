@@ -1,3 +1,6 @@
+/.idea
+/akvomelono.iml
+
 .eunit
 deps
 *.o
